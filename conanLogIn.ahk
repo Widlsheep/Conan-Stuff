@@ -7,7 +7,7 @@
 ;       - 2 to record Position 2
 ;       - 3 to record Position 3
 ;
-; 2. Press P to toggle the automated clicking loop on/off.
+; 2. Press 4 to toggle the automated clicking loop on/off.
 ; 3. Press Esc at any time to exit the script.
 ; -------------------------------------------------------------
 
@@ -100,4 +100,5 @@ return
 ; -------------------------------------------------------------
 ; Hotkey to exit the script
 ; -------------------------------------------------------------
+
 Esc::ExitApp
